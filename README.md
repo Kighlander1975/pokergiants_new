@@ -86,4 +86,4 @@ Das Projekt wird während der Entwicklung direkt auf einem Staging-Server deploy
 
 Sobald das Projekt initialisiert ist, folgen detaillierte Schritte zur Einrichtung der Deployment-Konfiguration.
 
-Für Fragen oder Beiträge: [Kontaktinformationen einfügen, falls vorhanden].
+Für Fragen oder Beiträge:kai.akkermann@kighlander.de
