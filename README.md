@@ -21,9 +21,9 @@ Das System bietet folgende Funktionen:
 ## Tech Stack
 
 - **Laravel**: PHP-Framework für das CMS und die API.
-- **Laravel Sanctum**: Für Authentifizierung (Web und API).
+- **Laravel Breeze**: Für Authentifizierung (Web).
 - **Datenbank**: Wahrscheinlich MySQL oder PostgreSQL (noch nicht spezifiziert).
-- **Weitere Tools**: Abhängig von der Implementierung (z. B. Axios für API-Aufrufe, CSS-Frameworks wie Tailwind oder Styled Components für Frontend-Elemente).
+- **Frontend**: Laravel Blade für serverseitiges Rendering und Styling.
 
 ### Lokale Entwicklungsumgebung
 

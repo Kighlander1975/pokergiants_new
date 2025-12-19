@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Material Symbols Outlined';
+    font-style: normal;
+    src: url('../fonts/material-symbols-outlined-v303-latin-regular.woff2') format('woff');
+}
+
+.mso {
+    font-family: 'Material Symbols Outlined';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;  /* Preferred icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+}
+
+body {
+    background-image: url('/images/pokergiants_background.jpg');
+    height: 100vh;
+    width: 100%;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
